@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* .redborder{border: 2px solid red;} */
+.blueborder{border: 2px solid blue;}
+.greenborder{border: 2px solid green;}
+.goldborder{border: 2px solid gold;}
+.purpleborder{border: 2px solid purple;}
+
+
+.min-height{min-height: 1080px;}
+.max-height{min-height: 780px;}
+.s-height{min-height: 700px;}
+
+.min-width{width: 50%;}
+.max-width{width: 100%;}
+
+
+@font-face {
+    font-family: nasa;
+    src: url(fonnts.com-435505/fonts/fonnts.com-GratelosDisplay.ttf);
+}
+
+@font-face {
+    font-family: funk;
+    src: url(fonts/fonnts.com-Bely_Display_W00_Regular.ttf);
+}
